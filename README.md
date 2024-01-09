@@ -9,7 +9,7 @@ Clone o repositório:
 
 bash
 Copy code
-git clone https://github.com/seu-usuario/calculadora-imc.git
+git clone https://github.com/Cassiano-Hoffmann/Calculadora-IMC.git
 Abra o arquivo index.html no seu navegador web.
 
 Preencha os campos de peso e altura.
